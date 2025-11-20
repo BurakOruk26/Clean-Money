@@ -1,0 +1,7 @@
+Contains Pydantic models used for:
+
+Validating requests coming from clients.
+
+Structuring responses sent back to clients.
+
+Preventing exposing sensitive database fields (like password).

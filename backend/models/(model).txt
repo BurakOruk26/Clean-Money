@@ -1,0 +1,3 @@
+Contains SQLAlchemy ORM classes that represent tables.
+
+Example: User model → corresponds to users table.

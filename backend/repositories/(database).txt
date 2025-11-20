@@ -1,0 +1,13 @@
+Repositories are responsible for:
+
+Performing SQLAlchemy queries
+
+Fetching, inserting, updating, deleting data
+
+Abstracting away ORM from the service layer
+
+Example:
+
+UserRepository.get_by_id()
+
+UserRepository.create()

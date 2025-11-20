@@ -1,0 +1,25 @@
+Contains the FastAPI routers and API endpoints.
+
+📁 api/v1/
+
+Versioned API modules.
+
+📄 user_router.py
+
+Defines HTTP endpoints:
+
+GET /users
+
+POST /users
+
+etc.
+
+What this layer does:
+
+Receives HTTP requests
+
+Validates inputs via Pydantic schemas
+
+Calls service functions
+
+Returns responses
